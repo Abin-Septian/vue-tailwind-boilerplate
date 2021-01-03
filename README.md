@@ -1,4 +1,4 @@
-# nomados
+# Vue Tailwind 2.0 Boiler Plate
 
 ## Project setup
 ```
